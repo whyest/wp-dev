@@ -1,0 +1,277 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Devs v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2024-08-15 12:58+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:8
+msgid "Oops! Page not found"
+msgstr "Упсс.... Страница не найдена"
+
+#: 404.php:9
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+"Похоже, в этом месте ничего не было найдено. Может быть, попробуйте поискать?"
+
+#: 404.php:13
+msgid "How about doing a search?"
+msgstr "Как насчет поиска?"
+
+#: 404.php:19
+msgid "Latest Posts"
+msgstr "Последние записи"
+
+#: archive.php:18 page-home.php:74
+msgid "Nothing yet to be displayed!"
+msgstr "Ничего еще не показано!"
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Один комментарий к &ldquo;%s&rdquo;"
+
+#: comments.php:36
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий к &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария к &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев к &ldquo;%2$s&rdquo;"
+
+#: comments.php:71
+msgid "Comments are closed."
+msgstr "Комментарии отключены."
+
+#: footer.php:3
+msgid "Copyright @ 2024 All rights reserved"
+msgstr "Авторское право @ 2024 Все права защищены"
+
+#: functions.php:19
+msgid "Main Menu"
+msgstr "Главное меню"
+
+#: functions.php:20
+msgid "Footer Menu"
+msgstr "Меню нижнего колонтитула"
+
+#: functions.php:46
+msgid "Blog Sidebar"
+msgstr "Боковая панель блога"
+
+#: functions.php:48
+msgid "This is the Blog Sidebar. You can add your widgets here."
+msgstr "Это боковая панель блога. Сюда вы можете добавить свои виджеты."
+
+#: functions.php:57
+msgid "Service 1"
+msgstr "Услуга 1"
+
+#: functions.php:59
+msgid "First Service Area"
+msgstr "Первая зона обслуживания"
+
+#: functions.php:68
+msgid "Service 2"
+msgstr "Услуга 2"
+
+#: functions.php:70
+msgid "Second Service Area"
+msgstr "Вторая зона обслуживания"
+
+#: functions.php:79
+msgid "Service 3"
+msgstr "Услуга 3"
+
+#: functions.php:81
+msgid "Third Service Area"
+msgstr "Третья зона обслуживания"
+
+#: general-template.php:26 index.php:18
+msgid "No posts found"
+msgstr "Сообщений не найдено"
+
+#: inc/customizer.php:8 inc/customizer.php:9
+msgid "Copyright Settings"
+msgstr "Настройки авторских прав"
+
+#: inc/customizer.php:17
+msgid "Copyright X - All Rights Reserved"
+msgstr "Авторское право X – Все права защищены"
+
+#: inc/customizer.php:25
+msgid "Copyright Information"
+msgstr "Информация об авторских правах"
+
+#: inc/customizer.php:26
+msgid "Please, type your copyright here"
+msgstr "Пожалуйста, укажите здесь свои авторские права"
+
+#: inc/customizer.php:36
+msgid "Hero Section"
+msgstr "Раздел Hero"
+
+#: inc/customizer.php:45
+msgid "Please, add some title"
+msgstr "Пожалуйста, добавьте заголовок"
+
+#: inc/customizer.php:53
+msgid "Hero Title"
+msgstr "Заголовок Hero"
+
+#: inc/customizer.php:54
+msgid "Please, type your here title here"
+msgstr "Пожалуйста, введите здесь заголовок"
+
+#: inc/customizer.php:65
+msgid "Please, add some subtitle"
+msgstr "Пожалуйста, добавьте подзаголовок"
+
+#: inc/customizer.php:73
+msgid "Hero Subtitle"
+msgstr "Подзаголовок Hero"
+
+#: inc/customizer.php:74
+msgid "Please, type your subtitle here"
+msgstr "Пожалуйста, введите здесь подзаголовок"
+
+#: inc/customizer.php:85
+msgid "Learn More"
+msgstr "Узнать больше"
+
+#: inc/customizer.php:93
+msgid "Hero button text"
+msgstr "Текст кнопки Hero"
+
+#: inc/customizer.php:94
+msgid "Please, type your hero button text here"
+msgstr "Пожалуйста, введите здесь текст кнопки Hero"
+
+#: inc/customizer.php:113
+msgid "Hero button link"
+msgstr "Ссылка кнопки Hero"
+
+#: inc/customizer.php:114
+msgid "Please, type your hero button link here"
+msgstr "Пожалуйста, введите здесь текст ссылки кнопки Hero"
+
+#: inc/customizer.php:133
+msgid "Hero height"
+msgstr "Высота блока Hero"
+
+#: inc/customizer.php:134
+msgid "Please, type your hero height"
+msgstr "Пожалуйста, введите высоту блока Hero"
+
+#: inc/customizer.php:152
+msgid "Hero Image"
+msgstr "Изображение блока Hero"
+
+#: inc/customizer.php:161
+msgid "Blog Section"
+msgstr "Секция Блога"
+
+#: inc/customizer.php:175
+msgid "Posts per page"
+msgstr "Сообщений на странице"
+
+#: inc/customizer.php:176
+msgid "How many items to display in the post list?"
+msgstr "Сколько элементов отображать в списке сообщений?"
+
+#: inc/customizer.php:192
+msgid "Post categories to include"
+msgstr "Категории сообщений для включения"
+
+#: inc/customizer.php:193 inc/customizer.php:210
+msgid "Comma separated values or single category ID"
+msgstr "Значения, разделенные запятыми, или идентификатор одной категории"
+
+#: inc/customizer.php:209
+msgid "Post categories to exclude"
+msgstr "Категории сообщений, которые следует исключить"
+
+#: index.php:7
+msgid "Blog"
+msgstr "Блог"
+
+#: page-home.php:6
+msgid "Please type some title"
+msgstr "Пожалуйста, введите заголовок"
+
+#: page-home.php:7
+msgid "Please type some subtitle"
+msgstr "Пожалуйста, введите подзаголовок"
+
+#: page-home.php:8
+msgid "Learn more"
+msgstr "Узнать больше"
+
+#: page-home.php:25
+msgid "Services"
+msgstr "Услуги"
+
+#: page-home.php:51
+msgid "Latest news"
+msgstr "Последние новости"
+
+#: parts/content-latest-news.php:8 parts/content-search.php:6
+#: parts/content-single.php:5 parts/content.php:7
+msgid "by"
+msgstr "к"
+
+#: parts/content-latest-news.php:10 parts/content-search.php:8
+#: parts/content-single.php:7 parts/content.php:9
+msgid "Categories"
+msgstr "Категории"
+
+#: parts/content-latest-news.php:13 parts/content-search.php:11
+#: parts/content-single.php:10 parts/content.php:12
+msgid "Tags"
+msgstr "Тэги"
+
+#: parts/content-pagination.php:3
+msgid "<< Newer posts"
+msgstr "<< Новые сообщения"
+
+#: parts/content-pagination.php:6
+msgid "Older posts >>"
+msgstr "Предыдущие сообщения >>"
+
+#: parts/content-search.php:6 parts/content-single.php:5 parts/content.php:7
+msgid "Posted in"
+msgstr "Опубликовано в"
+
+#: search.php:6
+msgid "Search Results For"
+msgstr "Результаты поиска для"
+
+#: searchform.php:3
+msgid "Search for"
+msgstr "Искать"
+
+#: searchform.php:5
+msgid "Search"
+msgstr "Поиск"
